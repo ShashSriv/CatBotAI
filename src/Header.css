@@ -1,0 +1,17 @@
+.header {
+  padding: 40px 20px;
+  text-align: center;
+  color: #333;
+  background: #ffdab9;
+}
+
+.header h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 4em;
+  margin: 0;
+}
+
+.tagline {
+  font-size: 1.2em;
+  font-style: italic;
+}
